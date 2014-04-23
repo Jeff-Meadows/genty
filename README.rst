@@ -1,4 +1,5 @@
 genty
+is awesome
 =====
 
 .. image:: https://travis-ci.org/box/genty.png?branch=master
